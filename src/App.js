@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import HomeScreen from "./storeApi/HomeScreen";
+import HomeScreen from "./firebaseComp/HomeScreen";
 import InputScreen from "./storeApi/InputScreen";
 import HeaderV from "./storeApi/HeaderV";
 import Detail from "./storeApi/Detail";
